@@ -1,9 +1,29 @@
-<div align="center">
+## 백대홍
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+### ☎️Contact
+
+😋 E-mail : bdh3620@naver.com
+</br>
+🤩 blog : https://daebong-monk.tistory.com/ 
+
+
+  
+ 
+  
+<div align=center>
+<h1>💻 STACK</h1></div>
+  <div align=center> 
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/Xcode-47EFB?style=for-the-badge&logo=xcode&logoColor=white">
+<img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdh3620&show_icons=true&theme=shades-of-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdh3620&layout=compact&theme=radical)
+
+
 
 
 </div>
