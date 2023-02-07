@@ -6,9 +6,13 @@
 </br>
 🤩 blog : https://daebong-monk.tistory.com/ 
 
+### 💻 Study
 
-  
- 
+Delay graduation in GNU - ComputerScience 
+</br>
+USG 공유대학 iOS 앱 개발 심화반(2023. 01 ~ 2023. 04)
+</br>
+USG 공유대학 iOS 앱 개발 문제해결반 (2023. 01 ~ 2023. 04)
   
 <div align=center>
 <h1>💻 STACK</h1></div>
