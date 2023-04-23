@@ -10,7 +10,7 @@
 Delay graduation in GNU - Computer Science 
 </br>
 USG 공유대학 iOS 앱 개발 심화반 ➕ 문제해결반(2023. 01 ~ 2023. 04)
-  
+
 <div align=center>
 <h1>💻 STACK</h1></div>
   <div align=center> 
