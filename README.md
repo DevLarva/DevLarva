@@ -9,7 +9,8 @@
 
 2023.09 Graduation in GNU - Computer Science 
 </br>
-USG 공유대학 iOS 앱 개발 심화반 ➕ 문제해결반(2023. 01 ~ 2023. 04)
+2023. 01 ~ 2023. 04 USG 공유대학 iOS 앱 개발 심화반 ➕ 문제해결반
+2023. 07 ~ 2023. 08 USG 공유대학 iOS 앱 기획/ 디자인 입문반 조교
 
 <div align=center>
 <h1>💻 STACK</h1></div>
