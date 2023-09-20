@@ -3,7 +3,10 @@
 
 😋 E-mail : bdh3620@naver.com
 <br>
-🤩 blog : https://daebong-monk.tistory.com/ 
+🤩 blog
+<br>
+<br>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=daebong-monk&postId=&theme=default)](https://github.com/loosie/github-readme-tistory-card)
 
 ### 💻 Study
 
@@ -24,10 +27,12 @@
 <img src="https://img.shields.io/badge/Xcode-47EFB?style=for-the-badge&logo=xcode&logoColor=white">
 <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLarva&show_icons=true&theme=shades-of-purple)
+
+
 
 
 
