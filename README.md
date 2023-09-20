@@ -6,7 +6,7 @@
 🤩 blog
 <br>
 <br>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=daebong-monk&postId=&theme=default)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=daebong-monk&postId=&theme=default)](https://daebong-monk.tistory.com/)
 
 ### 💻 Study
 
