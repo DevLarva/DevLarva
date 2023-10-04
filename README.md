@@ -26,7 +26,7 @@
 </br>
 
 ## 📲 Project
-- [**밥먹공**](https://github.com/DevLarva/Demo-Day)  `iOS` `SwiftUI` `Alamofire` </br>
+- [**밥먹공**](https://github.com/DevLarva/Demo-Day)  `iOS` `SwiftUI` `ETC` </br>
 2023.06 - 2023.09  </br>
 우리 학교 주변 맛집 모음 서비스  </br></br>
 - [**WithPet**](https://github.com/ProjectInTheClass/FitPet)  `iOS` `SwiftUI` `WebKit` </br>
