@@ -18,9 +18,6 @@
 2023.09 Graduation in GNU - Computer Science 
 <br>
 <br>
-2023. 07 ~ 2023. 08 USG 공유대학 iOS 앱 기획/ 디자인 입문반 수업 조교
-<br>
-<br>
 2023. 03 ~ 2023. 09 UMC 4기 경상대 iOS 파트장
 <br>
 <br>
