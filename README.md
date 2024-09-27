@@ -7,8 +7,7 @@
 🤩 Blog : https://daebong-monk.tistory.com/
 <br>
 ### Blog 최신글
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=daebong-monk&postId=21&theme=vue-dark)](https://daebong-monk.tistory.com/)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=daebong-monk&postId=21&theme=vue-dark)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=daebong-monk&postId=&theme=vue-dark)](https://github.com/loosie/github-readme-tistory-card)
 
 <br>
 <br>
