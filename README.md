@@ -9,6 +9,10 @@
 ### Blog 최신글
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=daebong-monk&postId={default}&theme=default)](https://daebong-monk.tistory.com)
 
+## 🏅 Certifications
+<!-- CREDLY-BADGES:START -->
+<!-- 이 사이의 내용은 GitHub Actions에 의해 자동으로 업데이트 됩니다. -->
+<!-- CREDLY-BADGES:END -->
 
 <br>
 
