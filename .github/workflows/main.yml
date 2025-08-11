@@ -14,8 +14,8 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update Credly Badges
-        # 버전을 GitHub 제안대로 v1.0.3에서 v1.0.2로 변경합니다.
-        uses: eliharper/credly-readme-action@v1.0.2
+        # 특정 버전 번호 대신 @main을 사용하여 가장 최신 버전을 사용합니다.
+        uses: eliharper/credly-readme-action@main
         with:
           credly_user: daehong-baek
           output_file: README.md
