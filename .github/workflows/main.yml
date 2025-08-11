@@ -3,23 +3,17 @@ name: Update Credly Badges
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
-
-permissions:
-  contents: write
+    - cron: '0 0 * * *' # 매일 00시
 
 jobs:
-  update-readme-with-credly:
-    name: Update Readme with Credly Badges
+  update-badges:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update Readme with Credly
-        # 신뢰할 수 있는 새로운 액션으로 교체합니다.
-        uses: accredible/credly-action@v2
+      - name: Update badges in README
+        uses: pemtajo/badge-readme@main
         with:
-          # 액션의 파라미터 이름이 user-id 입니다.
-          user-id: daehong-baek 
-          readme-path: ./README.md
+          CREDLY_USER: daehong-baek  # 본인 Credly 프로필 ID
+          README_FILE: README.md
