@@ -11,6 +11,7 @@
 
 ## 🏅 Certifications
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/3140592a-9897-4bd0-9eda-d546c046b01a" title="Red Hat Certified System Administrator (RHCSA)"><img src="https://images.credly.com/size/80x80/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="Red Hat Certified System Administrator (RHCSA)" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 
