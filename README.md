@@ -10,8 +10,9 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=daebong-monk&postId={default}&theme=default)](https://daebong-monk.tistory.com)
 
 ## 🏅 Certifications
-<!--START_SECTION:credly-->
-<!--END_SECTION:credly-->
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 
 <br>
 
