@@ -1,25 +1,14 @@
-name: Update Credly Badges
-
+name: Update Readme Actions
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # 매일 00:00 UTC 실행
-
-permissions:
-  contents: write
-
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
-  update-readme-with-credly:
-    name: Update README with Credly Badges
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Update README with Credly Badges
+      - name: Badges - README
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CREDLY_USER: daehong-baek
-          NUMBER_LAST_BADGES: 100
-          COMMIT_MESSAGE: "docs: update Credly badges"
+          CREDLY_USER: "daehong-baek"
