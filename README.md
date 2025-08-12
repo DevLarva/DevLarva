@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbdh3620%2Fhit-counter&count_bg=%23FFD900&title_bg=%23B82525&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## ☎️ Contact
 
 😋 E-mail : bdh3620@naver.com
@@ -7,7 +5,9 @@
 🤩 Blog : https://daebong-monk.tistory.com/
 <br>
 ### Blog 최신글
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=daebong-monk&postId={default}&theme=default)](https://daebong-monk.tistory.com)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<br>
 
 ## 🏅 Certifications
 <a href="https://www.credly.com/badges/3140592a-9897-4bd0-9eda-d546c046b01a/public_url">
