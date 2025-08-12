@@ -6,6 +6,9 @@
 <br>
 ### Blog 최신글
 <!-- BLOG-POST-LIST:START -->
+- [systemctl 사용중 생긴 의문점](https://daebong-monk.tistory.com/entry/systemctl-status%EC%97%90%EC%84%9C%EC%9D%98-%EC%9D%98%EB%AC%B8%EC%A0%90)
+- [네트워크 돋보기 - DNS&lpar;Domain Name System&rpar;](https://daebong-monk.tistory.com/entry/DNSDomain-Name-System)
+- [네트워크 돋보기 - MAC 주소, 테이블](https://daebong-monk.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%8F%8B%EB%B3%B4%EA%B8%B0-MAC-%EC%A3%BC%EC%86%8C-%ED%85%8C%EC%9D%B4%EB%B8%94)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
