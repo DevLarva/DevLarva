@@ -42,7 +42,7 @@
 자신과 가장 잘 맞는 동물을 추천해주는 반려 동물 추천 App  </br>
 [**앱스토어에서 바로 보기**](https://apps.apple.com/kr/app/위드펫-withpet/id6450793840)  </br></br>
 - [**GaNaDa**](https://github.com/DevLarva/GaNaDa)  `iOS` `SwiftUI` `WebKit` </br>
-2022.09 - (진행중)  </br>
+2022.09 - 2022.11  </br>
 한글을 배우고 싶어하는 외국인을 위한 한글 학습 App  </br></br>
 - [**Gold Apple**](https://github.com/GNU-CS22-Golden-Apple)  `Android` `Python` </br>
 2022.02 - 2022.08  </br>
