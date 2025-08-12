@@ -1,7 +1,6 @@
-name: Blog 최신글
+name: Latest blog post workflow
 on:
   schedule:
-    # 매일 자정(UTC 기준)에 실행
     - cron: '0 0 * * *'
   workflow_dispatch:
 
@@ -10,8 +9,19 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 1. curl을 사용해 티스토리 RSS 피드를 파일로 저장합니다.
+      #    이 단계가 406 에러를 우회하는 핵심입니다.
+      - name: Fetch Tistory RSS feed
+        run: curl --user-agent "Mozilla/5.0" "https://daebong-monk.tistory.com/rss" > ./blog-posts.xml
+
+      # 2. 저장된 파일을 blog-post-workflow에 전달합니다.
+      - name: Update README with blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "3"
-          feed_list: "https://daebong-monk.tistory.com/rss"
+          # 이제 원격 URL이 아닌, 로컬 파일을 바라보게 합니다.
+          feed_list: "./blog-posts.xml" 
+          template: "> 💡 **[$title]($url)**"
