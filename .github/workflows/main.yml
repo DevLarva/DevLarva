@@ -1,14 +1,22 @@
-name: Update Readme Actions
+name: Update Badges
+
 on:
   schedule:
-    - cron: '30 18 * * *'
+    # 매일 00:00 UTC에 실행 (원하면 시간 조정)
+    - cron: '0 0 * * *'
   workflow_dispatch:
+
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update-badges:
+    name: Update README with Credly Badges
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Badges - README
-        uses: pemtajo/badge-readme@main
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update Badges
+        uses: pemtajo/badge-readme@v3.1.0
         with:
           CREDLY_USER: "daehong-baek"
