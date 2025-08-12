@@ -4,7 +4,8 @@
 <br>
 🤩 Blog : https://daebong-monk.tistory.com/
 <br>
-### Blog 최신글
+<br>
+## Blog 최신글
 <!-- BLOG-POST-LIST:START -->
 - [systemctl 사용중 생긴 의문점](https://daebong-monk.tistory.com/entry/systemctl-status%EC%97%90%EC%84%9C%EC%9D%98-%EC%9D%98%EB%AC%B8%EC%A0%90)
 - [네트워크 돋보기 - DNS&lpar;Domain Name System&rpar;](https://daebong-monk.tistory.com/entry/DNSDomain-Name-System)
