@@ -1,6 +1,7 @@
-name: Latest blog post workflow
+name: Blog 최신글
 on:
   schedule:
+    # 매일 자정(UTC 기준)에 실행
     - cron: '0 0 * * *'
   workflow_dispatch:
 
@@ -9,20 +10,9 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Fetch Tistory RSS feed
-        run: curl -L --user-agent "Mozilla/5.0" "https://daebong-monk.tistory.com/rss" > ./blog-posts.xml
-
-      # ✅ 디버깅을 위해 추가된 단계입니다.
-      # 생성된 blog-posts.xml 파일의 내용을 로그에 출력합니다.
-      - name: Display blog-posts.xml content
-        run: cat ./blog-posts.xml
-
-      - name: Update README with blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "3"
-          feed_list: "./blog-posts.xml"
-          template: "> 💡 **[$title]($url)**"
+          # 이 부분이 핵심입니다! 최신 글 1개만 가져오도록 설정
+          max_post_count: "1"
+          feed_list: "https://daebong-monk.tistory.com/rss"
