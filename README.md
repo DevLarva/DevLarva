@@ -38,6 +38,9 @@
 </br>
 
 ## 📲 Project
+- [**JUDA**](https://github.com/JUDA-Hrmi/JUDA)  `iOS` `SwiftUI` `ETC` </br>
+2024.02 - 2023.03  </br>
+openAI를 통해 오늘의 날씨에 어울리는 ‘술 - 음식’ 조합을 사용자에게 추천  </br></br>
 - [**밥먹공**](https://github.com/DevLarva/Demo-Day)  `iOS` `SwiftUI` `ETC` </br>
 2023.06 - 2023.09  </br>
 우리 학교 주변 맛집 모음 서비스  </br></br>
@@ -45,9 +48,7 @@
 2023.01 - 2023.07  </br>
 자신과 가장 잘 맞는 동물을 추천해주는 반려 동물 추천 App  </br>
 [**앱스토어에서 바로 보기**](https://apps.apple.com/kr/app/위드펫-withpet/id6450793840)  </br></br>
-- [**GaNaDa**](https://github.com/DevLarva/GaNaDa)  `iOS` `SwiftUI` `WebKit` </br>
-2022.09 - 2022.11  </br>
-한글을 배우고 싶어하는 외국인을 위한 한글 학습 App  </br></br>
+
 - [**Gold Apple**](https://github.com/GNU-CS22-Golden-Apple)  `Android` `Python` </br>
 2022.02 - 2022.08  </br>
 인공지능을 활용한 농산물 구매 도움 서비스  </br></br>
