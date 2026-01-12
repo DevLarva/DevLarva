@@ -13,14 +13,10 @@
 <!-- BLOG-POST-LIST:END -->
 <br>
 
-## 🏅 Certifications
-<a href="https://www.credly.com/badges/3140592a-9897-4bd0-9eda-d546c046b01a/public_url">
-  <img width="150" height="270" alt="red-hat-certified-system-administrator-rhcsa" src="https://github.com/user-attachments/assets/0b2ec978-e9a0-4f79-a115-a0963f91a31c" />
-</a>
+| RHCSA | KCNA |
+| :---: | :---: |
+| <a href="https://www.credly.com/badges/3140592a-9897-4bd0-9eda-d546c046b01a/public_url"><img src="https://github.com/user-attachments/assets/0b2ec978-e9a0-4f79-a115-a0963f91a31c" width="150"></a> | <a href="https://www.credly.com/badges/5e42ec90-316c-49b4-a5be-2a8ccdf5d72e/public_url"><img src="https://github.com/user-attachments/assets/aec39eab-fd7d-46fd-9d8c-8d3fb1791381" width="150"></a> |
 
-
-
-<br>
 
 ## 💻 Study
 
