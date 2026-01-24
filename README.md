@@ -5,7 +5,7 @@
 🤩 Blog : https://daebong-monk.tistory.com/
 <br>
 <br>
-## Blog 최신글
+## 📝 Blog 최신글
 <!-- BLOG-POST-LIST:START -->
 - [오타가 알려준 systemctl의 유닛 해석 로직](https://daebong-monk.tistory.com/entry/systemctl-status%EC%97%90%EC%84%9C%EC%9D%98-%EC%9D%98%EB%AC%B8%EC%A0%90)
 - [네트워크 돋보기 - DNS&lpar;Domain Name System&rpar;](https://daebong-monk.tistory.com/entry/DNSDomain-Name-System)
@@ -13,6 +13,8 @@
 <!-- BLOG-POST-LIST:END -->
 <br>
 
+
+## 💯 Certificate
 | RHCSA | KCNA |
 | :---: | :---: |
 | <a href="https://www.credly.com/badges/3140592a-9897-4bd0-9eda-d546c046b01a/public_url"><img src="https://github.com/user-attachments/assets/0b2ec978-e9a0-4f79-a115-a0963f91a31c" width="150"></a> | <a href="https://www.credly.com/badges/5e42ec90-316c-49b4-a5be-2a8ccdf5d72e/public_url"><img src="https://github.com/user-attachments/assets/aec39eab-fd7d-46fd-9d8c-8d3fb1791381" width="150"></a> |
