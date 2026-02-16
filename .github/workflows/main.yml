@@ -15,4 +15,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "3"
-          feed_list: "https://daebong-monk.tistory.com/rss" # 티스토리 공식 RSS
+          feed_list: "https://feeds.feedburner.com/tistory/yp5bnycdg3l" # 티스토리 공식 RSS
