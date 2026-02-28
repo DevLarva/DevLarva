@@ -7,7 +7,7 @@
 <br>
 ## 📝 Blog 최신글
 <!-- BLOG-POST-LIST:START -->
-- [RAID는 왜 필요한가 &amp;ndash; 구조와 선택 기준 정리](https://daebong-monk.tistory.com/entry/RAID%EB%8A%94-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-%E2%80%93-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80-%EC%A0%95%EB%A6%AC)
+- [RAID는 왜 필요한가 - 구조와 선택 기준 정리](https://daebong-monk.tistory.com/entry/RAID%EB%8A%94-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-%E2%80%93-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80-%EC%A0%95%EB%A6%AC)
 - [서버가 느려졌을 때, 리눅스에서 확인할 수 있는 것들](https://daebong-monk.tistory.com/entry/%EC%84%9C%EB%B2%84%EA%B0%80-%EB%8A%90%EB%A0%A4%EC%A1%8C%EC%9D%84-%EB%95%8C-%EB%A6%AC%EB%88%85%EC%8A%A4%EC%97%90%EC%84%9C-%ED%99%95%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EA%B2%83%EB%93%A4)
 - [오타가 알려준 systemctl의 유닛 해석 로직](https://daebong-monk.tistory.com/entry/systemctl-status%EC%97%90%EC%84%9C%EC%9D%98-%EC%9D%98%EB%AC%B8%EC%A0%90)
 <!-- BLOG-POST-LIST:END -->
